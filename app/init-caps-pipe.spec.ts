@@ -1,4 +1,5 @@
 import {InitCapsPipe} from './init-caps-pipe';
+import {describe, expect, beforeEach, it} from 'angular2/testing';
 
 describe('InitCapsPipe', () => {
   let pipe:InitCapsPipe;

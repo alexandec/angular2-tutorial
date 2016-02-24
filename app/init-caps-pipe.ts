@@ -3,7 +3,6 @@ import {Pipe} from 'angular2/core';
 @Pipe({ name: 'initCaps' })
 export class InitCapsPipe {
   private _capFirstLetter(word: string) {
-    /* Capitalize first letter of word */
     return word ? word[0].toUpperCase() + word.slice(1) : '';
   }
   
