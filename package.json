@@ -23,5 +23,19 @@
     "jasmine-core": "2.4.1",
     "lite-server": "^1.3.1",
     "typescript": "^1.7.3"
-  }
+  },
+  "description": "See https://angular.io/docs/ts/latest/tutorial/",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexandec/angular2-tutorial"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandec/angular2-tutorial/issues"
+  },
+  "homepage": "https://github.com/alexandec/angular2-tutorial#readme",
+  "keywords": [
+    "angular2",
+    "quickstart"
+  ]
 }
